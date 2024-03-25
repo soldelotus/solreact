@@ -1,0 +1,88 @@
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+ 
+#root {
+  width: 100%;
+  margin: 0 auto;
+  padding: 0;
+  text-align: center;
+  height: 100%; /* Adicionando altura total */
+}
+ 
+ 
+.App {
+  color: white;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+  background-image: url('img/aura.jpg');
+  background-size: cover;
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+}
+ 
+ 
+.container {
+  width: 100%;
+  height: 100%;
+}
+ 
+.imgods{
+  width: 200px;
+  height: auto;
+}
+ 
+.descricao{ /* Centraliza o texto horizontalmente */
+  margin-left: 10em;
+  margin-right: 10em;
+  text-align: center;
+  font-size: 30px;
+}
+ 
+.navbar{
+  padding: 10px;
+}
+ 
+.botao{
+  border: none;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 5px;
+  margin-right: 10px;
+ 
+}
+ 
+/*====================================*/
+ 
+.imgsol{
+  width: 300px;
+  height: auto;
+}
+ 
+.links{
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  font-size: 30px;
+}
+ 
+.textosol{
+  font-weight: bold;
+  margin-left: 10em;
+  margin-right: 10em;
+  text-align: center;
+  font-size: 30px;
+}
+ 
+.contatos{
+  color: white;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+  background-image: url('img/aura.jpg');
+  background-size: cover;
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+}
