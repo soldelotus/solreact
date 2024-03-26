@@ -14,8 +14,6 @@ const Home = () => {
                 Há um debate sobre essa inclusão dentro do próprio direito,
                 na qual muitas pessoas de diversos gêneros continuam buscando um espaço.
                 É pensar nessa desruptura de quaisquer padrões de opressão</h2>
-
-         <p>slghkdzfhgidhfguidfzjkguiadfgkjhdgjdauifghkjsdfhgudghfgjdfghifg</p>
         </div>
     )
 }
